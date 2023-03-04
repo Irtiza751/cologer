@@ -1,5 +1,7 @@
-# Color Console
-## How to use this library.
+# Cologer
+This package let you colorize messi looking console logs on the browser console
+
+### How to use this library.
 ```javascript
 import { Log } from "color-console";
 

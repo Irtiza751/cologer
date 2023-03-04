@@ -1,5 +1,5 @@
 {
-  "name": "color-console",
+  "name": "cologer",
   "version": "1.0.0",
   "description": "color console is library of logging colorfull text on the browser console with large collection of colors.",
   "main": "lib/index.js",
