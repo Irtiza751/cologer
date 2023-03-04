@@ -1,5 +1,5 @@
 # Cologer
-This package let you colorize messi looking console logs on the browser console
+This package lets you colorize messi looking console logs on the browser console window.
 
 ### How to use this library.
 ```javascript
