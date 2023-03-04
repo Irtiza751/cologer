@@ -1,0 +1,28 @@
+{
+  "name": "color-console",
+  "version": "1.0.0",
+  "description": "color console is library of logging colorfull text on the browser console with large collection of colors.",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Irtiza751/color-console"
+  },
+  "keywords": [
+    "paint console",
+    "console",
+    "log",
+    "painted logs"
+  ],
+  "author": "Muhammad Irtiza <muhammad.irtiza751@gmail.com>",
+  "license": "ISC",
+  "homepage": "https://github.com/Irtiza751/color-console",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  },
+  "files": ["lib/**/*"]
+}
