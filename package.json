@@ -8,19 +8,9 @@
     "build": "tsc",
     "prepare": "npm run build"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Irtiza751/color-console.git"
-  },
-  "keywords": [
-    "paint console",
-    "console",
-    "log",
-    "painted logs"
-  ],
+  "keywords": [],
   "author": "Muhammad Irtiza <muhammad.irtiza751@gmail.com>",
   "license": "ISC",
-  "homepage": "https://github.com/Irtiza751/color-console",
   "devDependencies": {
     "typescript": "^4.9.5"
   },
