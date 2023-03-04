@@ -1,6 +1,6 @@
 {
   "name": "cologer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "color console is library of logging colorfull text on the browser console with large collection of colors.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -8,11 +8,16 @@
     "build": "tsc",
     "prepare": "npm run build"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Irtiza751/cologer.git"
+  },
+  "keywords": ["color", "console", "logs", "terminal", "paint"],
   "author": "Muhammad Irtiza <muhammad.irtiza751@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "typescript": "^4.9.5"
   },
+  "homepage": "https://github.com/Irtiza751/cologer",
   "files": ["lib/**/*"]
 }
