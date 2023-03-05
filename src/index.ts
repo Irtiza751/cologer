@@ -11,4 +11,10 @@ export class Log {
     static bgSucess(msg: string) {
         console.log(`%c${msg}`, 'background: #31E635; color: #000000');
     }
+    static warning(msg: string) {
+        console.log(`%c${msg}`, 'color: #cc3300');
+    }
+    static bgWarning(msg: string) {
+        console.log(`%c${msg}`, 'background: #cc3300; color: #ffffff');
+    }
 }
