@@ -3,7 +3,7 @@ This package lets you colorize messi looking console logs on the browser console
 
 ### How to use this library.
 ```javascript
-import { Log } from "color-console";
+import { Log } from "cologer";
 
 Log.sucess("Your message here");
 Log.bgSucess("Your message here");
