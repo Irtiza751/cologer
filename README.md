@@ -9,4 +9,6 @@ Log.sucess("Your message here");
 Log.bgSucess("Your message here");
 Log.danger("Your message here");
 Log.bgDanger("Your message here");
+Log.warning("Your message here");
+Log.bgWarning("Your message here");
 ```
